@@ -33,7 +33,7 @@ Opus 4.8 · 5h 42%  7d 18%(⟳3h05m) · ctx 27%
 ## 설치 — macOS / Linux
 
 ```bash
-git clone https://github.com/iamracco0n/claude-statusline.git
+git clone https://github.com/iam-raccoon/claude-statusline.git
 cd claude-statusline
 ./install.sh
 ```
@@ -53,7 +53,7 @@ git이 없다면 GitHub 웹에서 `statusline.ps1`을 받아 `%USERPROFILE%\.cla
 git이 있으면:
 
 ```powershell
-git clone https://github.com/iamracco0n/claude-statusline.git
+git clone https://github.com/iam-raccoon/claude-statusline.git
 cd claude-statusline
 ./install.ps1
 ```
